@@ -1,0 +1,9 @@
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\bin\Debug\MovieSelector.exe.config
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\bin\Debug\MovieSelector.exe
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\bin\Debug\MovieSelector.pdb
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\obj\Debug\MovieSelector.csprojResolveAssemblyReference.cache
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\obj\Debug\MovieSelector.movieForm.resources
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\obj\Debug\MovieSelector.Properties.Resources.resources
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\obj\Debug\MovieSelector.csproj.GenerateResource.Cache
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\obj\Debug\MovieSelector.exe
+C:\Users\Mercier\Documents\Angie School\Fall 2014\CIS2621 OOP II\Ch13\Exercises\MovieSelector\MovieSelector\obj\Debug\MovieSelector.pdb
